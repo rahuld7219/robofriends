@@ -1,4 +1,4 @@
-//this file name is capitalized by convention as it is a react component
+//this file name is capitalized(each word) by convention as it is a react component
 import React from 'react';
 
 const Card = (props) => {
